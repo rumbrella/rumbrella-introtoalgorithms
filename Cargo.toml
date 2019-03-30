@@ -1,0 +1,8 @@
+[package]
+name = "rumbrella-introtoalgorithms"
+version = "0.1.0"
+authors = ["Gerald E. Butler <gerald.edward.butler@gmail.com>"]
+description = "Part of the rumbrella project - more to come"
+license-file = "license.txt"
+
+[dependencies]
